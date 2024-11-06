@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 olá, mundo 222!
+=======
+ola mundo 333!
+>>>>>>> branch-c
